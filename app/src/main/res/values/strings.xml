@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="btn_search">Search</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="list_header_res">ListHeaderRes</string>
+    <string name="txt_results">ListHeaderResults</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="imagen_explore">imagen_explore</string>
+    <string name="perfil">perfil</string>
+    <string name="background">background</string>
+    <string name="overview">Overview</string>
+    <string name="photo">Photo</string>
+    <string name="logotype">logotype</string>
+    <string name="card">card</string>
+    <string name="set">set</string>
+    <string name="settings">Settings</string>
+    <string name="out">out</string>
+    <string name="logout">Logout</string>
+    <string name="one_way">One way</string>
+    <string name="round_trip">Round trip</string>
+    <string name="to">To</string>
+    <string name="select_arrival">Select arrival</string>
+    <string name="depature_date">Depature Date</string>
+    <string name="select_date">Select Date</string>
+    <string name="search">Search</string>
+    <string name="generales">Generales</string>
+    <string name="modo_oscuro">Modo Oscuro</string>
+    <string name="hello">Hello</string>
+    <string name="explore">Explore</string>
+    <string name="profile">Profile</string>
+    <string name="notification">Notification</string>
+    <string name="get_help">Get Help</string>
+    <string name="calendar">Calendar</string>
+    <string name="a_comer_">¡A Comer!</string>
+    <string name="tus_comidas">Tus comidas favoritas directo a casa</string>
+    <string name="pedir_ahora">Pedir Ahora</string>
+    <string name="listado">Listado</string>
+    <string name="refresh">Actualizar</string>
+    <string name="stats">Historico</string>
+
+</resources>
